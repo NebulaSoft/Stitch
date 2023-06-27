@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ns.Stitch", "src\Ns.Stitch\Ns.Stitch.csproj", "{E2124C1E-AC8A-4B57-A6A0-298625020CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ns.Stitch.UnitTests", "test\Ns.Stitch.UnitTests\Ns.Stitch.UnitTests.csproj", "{E4D19AA0-D73D-49F9-81B5-9F3FBE18FA43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{AD021440-5E4C-401A-89EF-6EE18BEEF7B1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2124C1E-AC8A-4B57-A6A0-298625020CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2124C1E-AC8A-4B57-A6A0-298625020CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2124C1E-AC8A-4B57-A6A0-298625020CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2124C1E-AC8A-4B57-A6A0-298625020CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D19AA0-D73D-49F9-81B5-9F3FBE18FA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D19AA0-D73D-49F9-81B5-9F3FBE18FA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D19AA0-D73D-49F9-81B5-9F3FBE18FA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D19AA0-D73D-49F9-81B5-9F3FBE18FA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
